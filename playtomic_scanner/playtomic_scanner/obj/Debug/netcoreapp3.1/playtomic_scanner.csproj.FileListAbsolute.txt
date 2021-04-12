@@ -1,0 +1,15 @@
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.csprojAssemblyReference.cache
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.AssemblyInfoInputs.cache
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.AssemblyInfo.cs
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.csproj.CoreCompileInputs.cache
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.exe
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.deps.json
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.runtimeconfig.json
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.runtimeconfig.dev.json
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.dll
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\playtomic_scanner.pdb
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.dll
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.pdb
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.genruntimeconfig.cache
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mathias-Work\Documents\Git Repos\playtomic_scanner\playtomic_scanner\playtomic_scanner\obj\Debug\netcoreapp3.1\playtomic_scanner.csproj.CopyComplete
